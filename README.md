@@ -15,6 +15,9 @@
 ### Activate virtual envirenment
 `pipenv shell`
 
+### If django-admin not working, then first Install the django
+`python -m pip install django`
+
 ### Create a new project
 `django-admin startproject storefront .`
 
